@@ -53,16 +53,10 @@ Given an integer, convert it to a roman numeral.
  Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
  
 
-- Constraints:
+## Constraints:
 
 1 <= num <= 3999
 
-## *****Constraints:*****
-
-- board.length == 9
-- board[i].length == 9
-- board[i][j] is a digit or '.'.
-- It is guaranteed that the input board has only one solution.
 
 ## *****How to contribute?*****
 
