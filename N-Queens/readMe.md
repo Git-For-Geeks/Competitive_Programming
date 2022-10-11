@@ -43,4 +43,4 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
 - All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!
 - Have some patience to get successfully merged PR. Keep Patience!
-- If you are following a Youtube video, make sure you do some changes and *****not submit the exact code.
+- If you are following a Youtube video, make sure you do some changes and *****not submit the exact code*****.
