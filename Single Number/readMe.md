@@ -52,3 +52,19 @@ You must implement a solution with a linear runtime complexity and use only cons
 - All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!
 - Have some patience to get successfully merged PR. Keep Patience!
 - If you are following a Youtube video, make sure you do some changes and *****not submit the exact code*****.
+
+
+# **End note**
+It's a great privilege of Geeks for Geeks Rcoem. All valid pull request will be accepted, this process may take sometime but don't worry.
+
+**Join our community for more events**
+
+[GFG - Rcoem Chapter](https://linktr.ee/gfgrcoem)
+
+[Instagram](https://www.instagram.com/gfg_rcoem_chapter/)
+
+[LinkedIn](https://www.linkedin.com/company/geeksforgeeks-rcoem-chapter/)
+
+### **Keep smiling 😄**
+
+### **Happy coding 🥳**
