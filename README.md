@@ -1,7 +1,7 @@
 # Competitive_Programming
 Competitive Programming Questions
 
-# Git-For-Geeks-DSA-REPO-2022
+# Git-For-Geeks-CP-REPO-2022
 
 ![gfg-banner.png](https://user-images.githubusercontent.com/90423812/195241228-23e70dec-a9d8-4dd6-bd84-a1b21eae2cb5.png)
 
