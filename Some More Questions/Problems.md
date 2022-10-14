@@ -12,7 +12,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 - <a href="https://www.codechef.com/submit/AVGPERM"> Average Permutation </a>
 - <a href="https://codeforces.com/problemset/problem/263/A"> Beautiful Matrix </a>
-- <a href="https://codeforces.com/problemset/problem/110/A"> Nearly Lucky Number< /a>
+- <a href="https://codeforces.com/problemset/problem/110/A"> Nearly Lucky Number</a>
 - <a href="https://codeforces.com/problemset/problem/61/A"> Ultra Fast Mathematician </a>
 - <a href="https://www.codechef.com/submit/PCJ18B"> Chef And Bored Games </a>
 - <a href="https://www.codechef.com/submit/CHFHEIST"> Bella Ciao </a>
