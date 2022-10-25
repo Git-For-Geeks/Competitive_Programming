@@ -42,7 +42,8 @@ class Solution{
         }
 };
 
-int main(){
+int main()
+{
     int n=5,k=2; 
     vector<int> v={4,2,1,3,6}; 
     Solution ob;  
